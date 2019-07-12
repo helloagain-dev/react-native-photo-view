@@ -40,6 +40,6 @@ repositories {
 
 dependencies {
     compileOnly 'com.facebook.react:react-native:+'
-    implementation 'com.facebook.fresco:fresco:0.11.0'
+    implementation 'com.facebook.fresco:fresco:+'
     implementation 'me.relex:photodraweeview:1.0.0'
 }
